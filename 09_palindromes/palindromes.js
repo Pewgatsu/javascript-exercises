@@ -18,7 +18,6 @@ const palindromes = function (word) {
 
     return true;
 
-    
 
 
 };
